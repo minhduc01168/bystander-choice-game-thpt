@@ -1,0 +1,1001 @@
+﻿player_id,scenario_id,scenario,action,empathy_response,confidence_response
+P001,1,Video bắt nạt trong nhóm chat,Không làm gì,4.05,3.48
+P001,2,Chứng kiến bạn bị cô lập,Không làm gì,4.05,3.73
+P001,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,4.03,3.6
+P001,4,Phát hiện bình luận xúc phạm,Không làm gì,3.84,3.42
+P001,5,Bạn bị quay video và chia sẻ,Không làm gì,3.67,4.03
+P002,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.42,4.37
+P002,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,4.55,4.76
+P002,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.66,4.85
+P002,4,Phát hiện bình luận xúc phạm,Báo giáo viên,4.56,4.61
+P002,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.52,5.0
+P003,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.56,2.58
+P003,2,Chứng kiến bạn bị cô lập,Báo giáo viên,4.02,2.6
+P003,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.81,2.47
+P003,4,Phát hiện bình luận xúc phạm,Không làm gì,3.87,2.46
+P003,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,4.1,3.05
+P004,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,2.97,1.95
+P004,2,Chứng kiến bạn bị cô lập,Không làm gì,3.09,2.93
+P004,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,2.91,2.7
+P004,4,Phát hiện bình luận xúc phạm,Không làm gì,3.53,2.15
+P004,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.25,2.7
+P005,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.26,3.24
+P005,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.2,3.04
+P005,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.19,2.98
+P005,4,Phát hiện bình luận xúc phạm,Không làm gì,3.36,3.1
+P005,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.41,2.9
+P006,1,Video bắt nạt trong nhóm chat,Không làm gì,3.39,4.43
+P006,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,2.81,4.31
+P006,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.62,3.92
+P006,4,Phát hiện bình luận xúc phạm,Không làm gì,3.73,4.32
+P006,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.13,4.21
+P007,1,Video bắt nạt trong nhóm chat,Không làm gì,3.98,2.49
+P007,2,Chứng kiến bạn bị cô lập,Không làm gì,3.97,2.24
+P007,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.88,2.12
+P007,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.81,2.24
+P007,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.66,2.78
+P008,1,Video bắt nạt trong nhóm chat,Không làm gì,3.89,3.39
+P008,2,Chứng kiến bạn bị cô lập,Không làm gì,3.35,3.16
+P008,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.92,3.28
+P008,4,Phát hiện bình luận xúc phạm,Báo giáo viên,4.2,3.34
+P008,5,Bạn bị quay video và chia sẻ,Không làm gì,3.67,3.16
+P009,1,Video bắt nạt trong nhóm chat,Không làm gì,3.95,2.59
+P009,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.1,2.87
+P009,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.72,2.3
+P009,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.46,2.76
+P009,5,Bạn bị quay video và chia sẻ,Không làm gì,3.64,2.09
+P010,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.47,5.0
+P010,2,Chứng kiến bạn bị cô lập,Báo giáo viên,4.37,4.61
+P010,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,4.39,4.38
+P010,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.6,4.33
+P010,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,4.44,4.48
+P011,1,Video bắt nạt trong nhóm chat,Không làm gì,3.22,3.4
+P011,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.35,2.96
+P011,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.52,2.93
+P011,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.4,3.15
+P011,5,Bạn bị quay video và chia sẻ,Không làm gì,3.66,3.27
+P012,1,Video bắt nạt trong nhóm chat,Không làm gì,3.64,4.18
+P012,2,Chứng kiến bạn bị cô lập,Không làm gì,4.0,4.12
+P012,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.65,3.65
+P012,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.38,3.9
+P012,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.5,3.93
+P013,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.69,4.43
+P013,2,Chứng kiến bạn bị cô lập,Không làm gì,3.66,4.42
+P013,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.7,3.81
+P013,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.45,4.26
+P013,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.38,4.45
+P014,1,Video bắt nạt trong nhóm chat,Không làm gì,4.14,2.7
+P014,2,Chứng kiến bạn bị cô lập,Không làm gì,3.71,2.77
+P014,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.8,2.32
+P014,4,Phát hiện bình luận xúc phạm,Không làm gì,3.61,2.32
+P014,5,Bạn bị quay video và chia sẻ,Không làm gì,3.66,2.44
+P015,1,Video bắt nạt trong nhóm chat,Không làm gì,3.21,2.84
+P015,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.28,3.14
+P015,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.41,2.47
+P015,4,Phát hiện bình luận xúc phạm,Không làm gì,2.53,3.07
+P015,5,Bạn bị quay video và chia sẻ,Không làm gì,2.83,2.78
+P016,1,Video bắt nạt trong nhóm chat,Không làm gì,3.47,3.58
+P016,2,Chứng kiến bạn bị cô lập,Không làm gì,3.9,4.22
+P016,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.62,3.38
+P016,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.62,4.13
+P016,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.39,4.08
+P017,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.89,3.86
+P017,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.92,3.48
+P017,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.19,3.68
+P017,4,Phát hiện bình luận xúc phạm,Không làm gì,3.88,3.49
+P017,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.78,3.5
+P018,1,Video bắt nạt trong nhóm chat,Không làm gì,3.44,3.3
+P018,2,Chứng kiến bạn bị cô lập,Không làm gì,3.14,2.47
+P018,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.85,2.82
+P018,4,Phát hiện bình luận xúc phạm,Không làm gì,3.31,3.13
+P018,5,Bạn bị quay video và chia sẻ,Không làm gì,3.33,3.33
+P019,1,Video bắt nạt trong nhóm chat,Không làm gì,4.04,3.4
+P019,2,Chứng kiến bạn bị cô lập,Không làm gì,4.41,3.37
+P019,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.06,3.59
+P019,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.2,3.91
+P019,5,Bạn bị quay video và chia sẻ,Không làm gì,3.88,3.33
+P020,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.68,3.37
+P020,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,4.07,3.57
+P020,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.48,3.59
+P020,4,Phát hiện bình luận xúc phạm,Không làm gì,3.23,3.3
+P020,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.87,3.38
+P021,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.95,3.42
+P021,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,4.51,3.47
+P021,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,4.46,3.1
+P021,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.85,3.67
+P021,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.13,3.23
+P022,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.39,2.87
+P022,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.17,3.27
+P022,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,2.9,2.96
+P022,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.07,2.8
+P022,5,Bạn bị quay video và chia sẻ,Không làm gì,3.44,2.86
+P023,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.14,3.54
+P023,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,2.92,3.06
+P023,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,2.75,2.78
+P023,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.52,2.99
+P023,5,Bạn bị quay video và chia sẻ,Không làm gì,2.95,3.2
+P024,1,Video bắt nạt trong nhóm chat,Không làm gì,4.31,3.32
+P024,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.45,2.97
+P024,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.19,3.19
+P024,4,Phát hiện bình luận xúc phạm,Không làm gì,4.17,3.52
+P024,5,Bạn bị quay video và chia sẻ,Không làm gì,4.35,3.3
+P025,1,Video bắt nạt trong nhóm chat,Báo giáo viên,4.04,4.28
+P025,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.92,3.67
+P025,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.97,3.83
+P025,4,Phát hiện bình luận xúc phạm,Không làm gì,3.74,4.14
+P025,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.18,4.0
+P026,1,Video bắt nạt trong nhóm chat,Không làm gì,3.94,4.18
+P026,2,Chứng kiến bạn bị cô lập,Không làm gì,3.92,4.4
+P026,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.0,3.31
+P026,4,Phát hiện bình luận xúc phạm,Báo giáo viên,4.05,3.85
+P026,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,4.18,3.92
+P027,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.88,4.19
+P027,2,Chứng kiến bạn bị cô lập,Báo giáo viên,4.86,4.29
+P027,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,4.76,4.65
+P027,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,5.0,4.6
+P027,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.61,4.61
+P028,1,Video bắt nạt trong nhóm chat,Báo giáo viên,4.75,3.34
+P028,2,Chứng kiến bạn bị cô lập,Báo giáo viên,4.42,3.49
+P028,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,4.25,3.65
+P028,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,4.42,3.59
+P028,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.23,3.38
+P029,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.72,2.85
+P029,2,Chứng kiến bạn bị cô lập,Không làm gì,3.97,2.84
+P029,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.6,3.17
+P029,4,Phát hiện bình luận xúc phạm,Không làm gì,3.19,2.5
+P029,5,Bạn bị quay video và chia sẻ,Không làm gì,3.16,3.26
+P030,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.74,4.67
+P030,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.74,4.08
+P030,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,4.27,4.53
+P030,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.4,4.33
+P030,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.14,4.18
+P031,1,Video bắt nạt trong nhóm chat,Không làm gì,4.3,3.11
+P031,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.91,3.25
+P031,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.07,3.14
+P031,4,Phát hiện bình luận xúc phạm,Không làm gì,4.28,3.49
+P031,5,Bạn bị quay video và chia sẻ,Không làm gì,4.13,3.62
+P032,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.72,3.56
+P032,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.83,3.14
+P032,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.99,3.58
+P032,4,Phát hiện bình luận xúc phạm,Báo giáo viên,4.39,3.77
+P032,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.75,4.07
+P033,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.15,3.01
+P033,2,Chứng kiến bạn bị cô lập,Không làm gì,3.78,2.62
+P033,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.75,3.13
+P033,4,Phát hiện bình luận xúc phạm,Báo giáo viên,4.31,3.25
+P033,5,Bạn bị quay video và chia sẻ,Không làm gì,3.72,2.58
+P034,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.78,2.41
+P034,2,Chứng kiến bạn bị cô lập,Không làm gì,3.82,2.81
+P034,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.62,2.45
+P034,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.87,2.72
+P034,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.45,2.13
+P035,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,2.79,2.8
+P035,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.22,2.25
+P035,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,2.65,2.48
+P035,4,Phát hiện bình luận xúc phạm,Báo giáo viên,2.55,2.44
+P035,5,Bạn bị quay video và chia sẻ,Không làm gì,2.99,2.67
+P036,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.04,4.27
+P036,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.85,4.11
+P036,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,4.01,4.41
+P036,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,4.3,4.12
+P036,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.44,4.25
+P037,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.19,2.81
+P037,2,Chứng kiến bạn bị cô lập,Không làm gì,2.59,3.22
+P037,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.38,2.93
+P037,4,Phát hiện bình luận xúc phạm,Không làm gì,3.22,3.13
+P037,5,Bạn bị quay video và chia sẻ,Báo giáo viên,2.81,2.87
+P038,1,Video bắt nạt trong nhóm chat,Báo giáo viên,4.35,2.55
+P038,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.22,2.52
+P038,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,4.27,2.85
+P038,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.75,3.15
+P038,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.97,2.66
+P039,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.29,3.82
+P039,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,2.99,3.55
+P039,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.35,3.7
+P039,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.28,3.44
+P039,5,Bạn bị quay video và chia sẻ,Không làm gì,3.03,3.55
+P040,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.73,3.92
+P040,2,Chứng kiến bạn bị cô lập,Báo giáo viên,5.0,4.88
+P040,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,4.41,4.4
+P040,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,5.0,5.0
+P040,5,Bạn bị quay video và chia sẻ,Báo giáo viên,5.0,4.47
+P041,1,Video bắt nạt trong nhóm chat,Không làm gì,3.13,3.4
+P041,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.02,2.86
+P041,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.06,2.82
+P041,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.21,3.47
+P041,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.26,3.0
+P042,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.32,2.51
+P042,2,Chứng kiến bạn bị cô lập,Không làm gì,3.61,2.88
+P042,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.34,3.7
+P042,4,Phát hiện bình luận xúc phạm,Không làm gì,3.46,2.71
+P042,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.28,3.19
+P043,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,5.0,4.51
+P043,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,5.0,4.7
+P043,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,5.0,5.0
+P043,4,Phát hiện bình luận xúc phạm,Không làm gì,4.89,5.0
+P043,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,5.0,5.0
+P044,1,Video bắt nạt trong nhóm chat,Báo giáo viên,4.11,3.86
+P044,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.83,4.33
+P044,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.91,3.97
+P044,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.75,4.18
+P044,5,Bạn bị quay video và chia sẻ,Không làm gì,4.51,3.8
+P045,1,Video bắt nạt trong nhóm chat,Không làm gì,3.55,3.01
+P045,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.52,2.77
+P045,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.27,2.77
+P045,4,Phát hiện bình luận xúc phạm,Không làm gì,3.49,2.91
+P045,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.84,3.31
+P046,1,Video bắt nạt trong nhóm chat,Không làm gì,4.78,3.35
+P046,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.69,3.18
+P046,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.72,3.2
+P046,4,Phát hiện bình luận xúc phạm,Báo giáo viên,4.68,3.6
+P046,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.39,3.55
+P047,1,Video bắt nạt trong nhóm chat,Báo giáo viên,4.16,3.18
+P047,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.3,3.06
+P047,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,4.15,3.2
+P047,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.58,3.08
+P047,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.04,3.35
+P048,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.67,3.35
+P048,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.63,3.21
+P048,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,5.0,3.36
+P048,4,Phát hiện bình luận xúc phạm,Báo giáo viên,5.0,3.82
+P048,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.98,3.33
+P049,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.98,3.22
+P049,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.65,3.31
+P049,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.59,3.53
+P049,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.76,3.28
+P049,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.95,3.17
+P050,1,Video bắt nạt trong nhóm chat,Không làm gì,4.08,3.1
+P050,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.15,2.88
+P050,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.96,3.7
+P050,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.68,3.05
+P050,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.06,3.26
+P051,1,Video bắt nạt trong nhóm chat,Không làm gì,3.25,2.92
+P051,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.32,3.08
+P051,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.26,2.74
+P051,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.33,3.27
+P051,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.13,2.56
+P052,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.81,3.64
+P052,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.99,3.88
+P052,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,4.4,3.65
+P052,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.61,3.72
+P052,5,Bạn bị quay video và chia sẻ,Không làm gì,4.71,3.56
+P053,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.37,4.19
+P053,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,4.42,4.4
+P053,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,4.01,4.52
+P053,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.11,4.45
+P053,5,Bạn bị quay video và chia sẻ,Không làm gì,4.33,4.71
+P054,1,Video bắt nạt trong nhóm chat,Không làm gì,3.85,3.43
+P054,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.91,3.44
+P054,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.11,3.12
+P054,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.65,3.25
+P054,5,Bạn bị quay video và chia sẻ,Không làm gì,4.15,3.95
+P055,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.02,2.32
+P055,2,Chứng kiến bạn bị cô lập,Không làm gì,3.07,2.65
+P055,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,2.82,2.42
+P055,4,Phát hiện bình luận xúc phạm,Không làm gì,3.29,2.49
+P055,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.1,2.61
+P056,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.01,3.13
+P056,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.53,2.5
+P056,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.82,3.3
+P056,4,Phát hiện bình luận xúc phạm,Không làm gì,3.66,3.2
+P056,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.09,3.29
+P057,1,Video bắt nạt trong nhóm chat,Không làm gì,3.57,3.12
+P057,2,Chứng kiến bạn bị cô lập,Không làm gì,3.18,2.53
+P057,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.1,2.72
+P057,4,Phát hiện bình luận xúc phạm,Không làm gì,3.7,2.89
+P057,5,Bạn bị quay video và chia sẻ,Không làm gì,3.19,3.07
+P058,1,Video bắt nạt trong nhóm chat,Không làm gì,3.87,3.7
+P058,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.7,3.33
+P058,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.67,2.95
+P058,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.71,3.27
+P058,5,Bạn bị quay video và chia sẻ,Không làm gì,3.75,3.11
+P059,1,Video bắt nạt trong nhóm chat,Không làm gì,2.88,3.01
+P059,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,2.85,3.22
+P059,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.25,2.67
+P059,4,Phát hiện bình luận xúc phạm,Không làm gì,3.15,2.84
+P059,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.31,3.37
+P060,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.22,2.93
+P060,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.65,3.07
+P060,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.74,2.71
+P060,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.61,2.7
+P060,5,Bạn bị quay video và chia sẻ,Không làm gì,3.96,2.91
+P061,1,Video bắt nạt trong nhóm chat,Không làm gì,4.52,4.5
+P061,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.86,4.14
+P061,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.59,4.12
+P061,4,Phát hiện bình luận xúc phạm,Báo giáo viên,4.11,4.65
+P061,5,Bạn bị quay video và chia sẻ,Không làm gì,3.64,4.74
+P062,1,Video bắt nạt trong nhóm chat,Không làm gì,3.73,3.6
+P062,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.25,3.78
+P062,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.78,3.34
+P062,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.31,3.38
+P062,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.8,3.31
+P063,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.61,4.62
+P063,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.58,4.44
+P063,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,4.68,4.71
+P063,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,4.37,4.95
+P063,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.62,4.6
+P064,1,Video bắt nạt trong nhóm chat,Không làm gì,5.0,3.92
+P064,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,5.0,3.93
+P064,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.85,3.95
+P064,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.71,3.89
+P064,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.99,3.81
+P065,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.18,2.75
+P065,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.07,3.24
+P065,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.25,2.96
+P065,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.53,3.0
+P065,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.45,3.33
+P066,1,Video bắt nạt trong nhóm chat,Báo giáo viên,2.96,3.79
+P066,2,Chứng kiến bạn bị cô lập,Không làm gì,2.82,3.58
+P066,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.37,3.18
+P066,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.47,3.29
+P066,5,Bạn bị quay video và chia sẻ,Không làm gì,3.19,3.42
+P067,1,Video bắt nạt trong nhóm chat,Không làm gì,2.56,3.68
+P067,2,Chứng kiến bạn bị cô lập,Không làm gì,2.79,3.04
+P067,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,2.92,3.06
+P067,4,Phát hiện bình luận xúc phạm,Báo giáo viên,2.85,3.76
+P067,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,2.32,3.38
+P068,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.42,3.43
+P068,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.62,3.67
+P068,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.03,3.83
+P068,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.56,3.43
+P068,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.28,3.28
+P069,1,Video bắt nạt trong nhóm chat,Báo giáo viên,4.02,4.19
+P069,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.47,3.64
+P069,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.77,3.86
+P069,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.58,3.9
+P069,5,Bạn bị quay video và chia sẻ,Không làm gì,3.66,3.79
+P070,1,Video bắt nạt trong nhóm chat,Không làm gì,4.06,3.18
+P070,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.81,3.15
+P070,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.9,3.09
+P070,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.86,3.58
+P070,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.06,3.11
+P071,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,5.0,4.92
+P071,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,5.0,5.0
+P071,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.97,5.0
+P071,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.61,4.72
+P071,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,4.7,5.0
+P072,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.5,3.98
+P072,2,Chứng kiến bạn bị cô lập,Không làm gì,3.23,3.55
+P072,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,2.62,3.28
+P072,4,Phát hiện bình luận xúc phạm,Không làm gì,2.87,3.26
+P072,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.03,3.3
+P073,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.03,3.93
+P073,2,Chứng kiến bạn bị cô lập,Không làm gì,3.25,3.8
+P073,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,4.04,3.51
+P073,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,2.89,3.67
+P073,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.8,4.23
+P074,1,Video bắt nạt trong nhóm chat,Không làm gì,2.28,2.82
+P074,2,Chứng kiến bạn bị cô lập,Không làm gì,2.47,2.67
+P074,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.25,2.32
+P074,4,Phát hiện bình luận xúc phạm,Báo giáo viên,2.65,2.82
+P074,5,Bạn bị quay video và chia sẻ,Không làm gì,2.86,2.72
+P075,1,Video bắt nạt trong nhóm chat,Không làm gì,2.93,3.17
+P075,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,2.92,3.18
+P075,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.01,3.18
+P075,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,2.94,3.26
+P075,5,Bạn bị quay video và chia sẻ,Không làm gì,3.13,3.26
+P076,1,Video bắt nạt trong nhóm chat,Không làm gì,3.22,4.27
+P076,2,Chứng kiến bạn bị cô lập,Không làm gì,3.43,3.79
+P076,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.51,4.29
+P076,4,Phát hiện bình luận xúc phạm,Không làm gì,3.13,4.73
+P076,5,Bạn bị quay video và chia sẻ,Không làm gì,3.92,4.01
+P077,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.62,2.91
+P077,2,Chứng kiến bạn bị cô lập,Không làm gì,3.76,3.0
+P077,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.77,2.86
+P077,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.58,2.8
+P077,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.58,3.12
+P078,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.4,2.54
+P078,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.41,3.33
+P078,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.25,3.18
+P078,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.53,3.52
+P078,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.06,3.38
+P079,1,Video bắt nạt trong nhóm chat,Không làm gì,3.12,2.57
+P079,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.2,3.13
+P079,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.6,3.04
+P079,4,Phát hiện bình luận xúc phạm,Không làm gì,3.54,3.04
+P079,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.2,3.02
+P080,1,Video bắt nạt trong nhóm chat,Báo giáo viên,4.97,4.2
+P080,2,Chứng kiến bạn bị cô lập,Không làm gì,5.0,4.19
+P080,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,4.86,4.28
+P080,4,Phát hiện bình luận xúc phạm,Báo giáo viên,4.76,3.79
+P080,5,Bạn bị quay video và chia sẻ,Không làm gì,4.73,3.82
+P081,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.45,2.84
+P081,2,Chứng kiến bạn bị cô lập,Không làm gì,3.42,2.8
+P081,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.15,2.93
+P081,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.62,2.68
+P081,5,Bạn bị quay video và chia sẻ,Không làm gì,3.78,3.11
+P082,1,Video bắt nạt trong nhóm chat,Báo giáo viên,2.88,2.4
+P082,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.09,2.36
+P082,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.49,2.54
+P082,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.21,2.09
+P082,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.44,2.28
+P083,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.76,3.08
+P083,2,Chứng kiến bạn bị cô lập,Không làm gì,4.09,2.68
+P083,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.0,3.06
+P083,4,Phát hiện bình luận xúc phạm,Không làm gì,4.2,3.32
+P083,5,Bạn bị quay video và chia sẻ,Không làm gì,3.8,2.89
+P084,1,Video bắt nạt trong nhóm chat,Không làm gì,3.33,2.08
+P084,2,Chứng kiến bạn bị cô lập,Không làm gì,3.25,2.45
+P084,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.4,3.01
+P084,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.23,2.19
+P084,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.12,1.88
+P085,1,Video bắt nạt trong nhóm chat,Không làm gì,3.11,2.81
+P085,2,Chứng kiến bạn bị cô lập,Không làm gì,3.15,2.95
+P085,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.07,3.19
+P085,4,Phát hiện bình luận xúc phạm,Không làm gì,3.28,2.91
+P085,5,Bạn bị quay video và chia sẻ,Không làm gì,3.2,2.95
+P086,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.09,3.32
+P086,2,Chứng kiến bạn bị cô lập,Không làm gì,3.72,3.46
+P086,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.54,3.34
+P086,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.76,3.76
+P086,5,Bạn bị quay video và chia sẻ,Không làm gì,3.95,3.59
+P087,1,Video bắt nạt trong nhóm chat,Báo giáo viên,4.24,3.1
+P087,2,Chứng kiến bạn bị cô lập,Báo giáo viên,4.13,3.1
+P087,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,4.1,2.98
+P087,4,Phát hiện bình luận xúc phạm,Không làm gì,3.42,3.1
+P087,5,Bạn bị quay video và chia sẻ,Không làm gì,4.39,3.36
+P088,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.51,3.8
+P088,2,Chứng kiến bạn bị cô lập,Không làm gì,3.29,3.54
+P088,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.12,3.41
+P088,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.42,3.79
+P088,5,Bạn bị quay video và chia sẻ,Không làm gì,3.24,3.38
+P089,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.87,3.22
+P089,2,Chứng kiến bạn bị cô lập,Không làm gì,3.51,2.5
+P089,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.73,2.76
+P089,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.74,3.03
+P089,5,Bạn bị quay video và chia sẻ,Không làm gì,3.76,3.43
+P090,1,Video bắt nạt trong nhóm chat,Không làm gì,3.36,3.29
+P090,2,Chứng kiến bạn bị cô lập,Không làm gì,3.44,2.93
+P090,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.54,3.19
+P090,4,Phát hiện bình luận xúc phạm,Không làm gì,3.45,2.94
+P090,5,Bạn bị quay video và chia sẻ,Báo giáo viên,2.89,3.41
+P091,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.33,2.96
+P091,2,Chứng kiến bạn bị cô lập,Báo giáo viên,4.02,3.47
+P091,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.94,3.6
+P091,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,4.01,3.35
+P091,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,4.16,3.34
+P092,1,Video bắt nạt trong nhóm chat,Không làm gì,3.94,3.55
+P092,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,4.09,3.34
+P092,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,4.27,3.46
+P092,4,Phát hiện bình luận xúc phạm,Không làm gì,4.02,3.34
+P092,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.44,3.54
+P093,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,5.0,4.29
+P093,2,Chứng kiến bạn bị cô lập,Báo giáo viên,4.46,4.02
+P093,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.47,4.23
+P093,4,Phát hiện bình luận xúc phạm,Báo giáo viên,4.16,4.37
+P093,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.64,4.27
+P094,1,Video bắt nạt trong nhóm chat,Không làm gì,4.07,3.39
+P094,2,Chứng kiến bạn bị cô lập,Báo giáo viên,4.13,3.54
+P094,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.87,3.25
+P094,4,Phát hiện bình luận xúc phạm,Không làm gì,3.99,3.78
+P094,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.65,3.02
+P095,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.52,3.75
+P095,2,Chứng kiến bạn bị cô lập,Không làm gì,4.52,3.8
+P095,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.42,4.11
+P095,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,4.08,3.53
+P095,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.45,3.33
+P096,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.67,4.8
+P096,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.72,4.44
+P096,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.39,4.23
+P096,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.62,4.3
+P096,5,Bạn bị quay video và chia sẻ,Không làm gì,4.03,4.52
+P097,1,Video bắt nạt trong nhóm chat,Không làm gì,3.57,4.04
+P097,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.97,4.27
+P097,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,4.25,3.73
+P097,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.65,3.67
+P097,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.79,4.1
+P098,1,Video bắt nạt trong nhóm chat,Không làm gì,4.36,4.95
+P098,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,4.03,5.0
+P098,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.9,5.0
+P098,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.71,5.0
+P098,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.62,4.97
+P099,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.19,3.24
+P099,2,Chứng kiến bạn bị cô lập,Không làm gì,4.19,3.67
+P099,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.69,3.71
+P099,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.88,3.26
+P099,5,Bạn bị quay video và chia sẻ,Không làm gì,4.13,3.48
+P100,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.97,3.73
+P100,2,Chứng kiến bạn bị cô lập,Không làm gì,4.88,3.27
+P100,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,4.42,3.44
+P100,4,Phát hiện bình luận xúc phạm,Không làm gì,4.48,3.61
+P100,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.21,3.73
+P101,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.64,3.22
+P101,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,4.37,2.95
+P101,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.95,3.39
+P101,4,Phát hiện bình luận xúc phạm,Không làm gì,4.56,3.36
+P101,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.11,3.27
+P102,1,Video bắt nạt trong nhóm chat,Báo giáo viên,2.89,2.59
+P102,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.42,2.33
+P102,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.08,2.51
+P102,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.09,2.42
+P102,5,Bạn bị quay video và chia sẻ,Không làm gì,3.72,2.38
+P103,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.79,2.79
+P103,2,Chứng kiến bạn bị cô lập,Báo giáo viên,4.07,2.9
+P103,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.72,3.28
+P103,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,4.23,2.8
+P103,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.41,3.2
+P104,1,Video bắt nạt trong nhóm chat,Không làm gì,3.84,3.98
+P104,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.52,4.0
+P104,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.71,3.96
+P104,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.01,3.54
+P104,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.91,3.95
+P105,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.77,4.0
+P105,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,5.0,3.46
+P105,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,5.0,3.88
+P105,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,4.52,3.52
+P105,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.69,4.08
+P106,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,2.57,3.96
+P106,2,Chứng kiến bạn bị cô lập,Không làm gì,2.24,3.58
+P106,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,2.29,3.67
+P106,4,Phát hiện bình luận xúc phạm,Không làm gì,2.82,3.47
+P106,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,1.95,3.63
+P107,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.35,3.94
+P107,2,Chứng kiến bạn bị cô lập,Không làm gì,4.55,3.57
+P107,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.41,4.14
+P107,4,Phát hiện bình luận xúc phạm,Không làm gì,3.8,3.92
+P107,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.11,3.82
+P108,1,Video bắt nạt trong nhóm chat,Không làm gì,3.62,2.4
+P108,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.36,2.53
+P108,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.26,2.25
+P108,4,Phát hiện bình luận xúc phạm,Không làm gì,3.7,2.23
+P108,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.7,2.64
+P109,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.12,3.57
+P109,2,Chứng kiến bạn bị cô lập,Không làm gì,3.85,3.49
+P109,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.43,3.86
+P109,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.75,3.68
+P109,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.4,4.1
+P110,1,Video bắt nạt trong nhóm chat,Báo giáo viên,5.0,4.57
+P110,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,5.0,4.13
+P110,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,4.79,4.46
+P110,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,5.0,4.68
+P110,5,Bạn bị quay video và chia sẻ,Báo giáo viên,5.0,3.95
+P111,1,Video bắt nạt trong nhóm chat,Không làm gì,3.59,2.66
+P111,2,Chứng kiến bạn bị cô lập,Không làm gì,3.23,2.97
+P111,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.83,3.69
+P111,4,Phát hiện bình luận xúc phạm,Không làm gì,3.48,2.86
+P111,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.46,3.13
+P112,1,Video bắt nạt trong nhóm chat,Không làm gì,3.45,4.62
+P112,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.59,4.29
+P112,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.7,4.28
+P112,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.74,4.02
+P112,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.39,3.89
+P113,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.59,3.3
+P113,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.59,3.53
+P113,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.48,3.28
+P113,4,Phát hiện bình luận xúc phạm,Không làm gì,3.21,3.01
+P113,5,Bạn bị quay video và chia sẻ,Không làm gì,3.65,3.32
+P114,1,Video bắt nạt trong nhóm chat,Không làm gì,4.24,4.53
+P114,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.93,4.46
+P114,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,4.53,4.69
+P114,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,4.44,4.56
+P114,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.31,4.38
+P115,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.08,3.44
+P115,2,Chứng kiến bạn bị cô lập,Không làm gì,3.03,3.2
+P115,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,2.37,3.6
+P115,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,2.79,3.11
+P115,5,Bạn bị quay video và chia sẻ,Không làm gì,3.08,3.23
+P116,1,Video bắt nạt trong nhóm chat,Không làm gì,3.73,4.09
+P116,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.64,3.6
+P116,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.77,4.01
+P116,4,Phát hiện bình luận xúc phạm,Không làm gì,3.38,3.98
+P116,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.03,4.04
+P117,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.65,2.56
+P117,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.53,3.18
+P117,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.75,3.28
+P117,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.78,2.47
+P117,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.63,3.21
+P118,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.2,2.24
+P118,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.28,2.51
+P118,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.52,2.74
+P118,4,Phát hiện bình luận xúc phạm,Không làm gì,3.15,2.05
+P118,5,Bạn bị quay video và chia sẻ,Không làm gì,3.14,2.45
+P119,1,Video bắt nạt trong nhóm chat,Báo giáo viên,2.11,3.27
+P119,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,2.44,3.5
+P119,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,2.36,3.32
+P119,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,2.29,3.28
+P119,5,Bạn bị quay video và chia sẻ,Không làm gì,2.57,3.77
+P120,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.22,3.82
+P120,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.31,3.89
+P120,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.66,3.69
+P120,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.45,3.8
+P120,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.73,4.07
+P121,1,Video bắt nạt trong nhóm chat,Không làm gì,3.72,2.68
+P121,2,Chứng kiến bạn bị cô lập,Không làm gì,3.76,2.57
+P121,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,4.32,2.98
+P121,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.58,2.85
+P121,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.1,2.35
+P122,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.91,4.03
+P122,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.43,3.42
+P122,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.96,3.72
+P122,4,Phát hiện bình luận xúc phạm,Không làm gì,3.85,3.74
+P122,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.81,3.32
+P123,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.23,2.98
+P123,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.91,2.68
+P123,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.59,2.82
+P123,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,4.11,2.67
+P123,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,4.25,2.61
+P124,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.92,4.47
+P124,2,Chứng kiến bạn bị cô lập,Báo giáo viên,4.77,4.68
+P124,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,4.84,4.63
+P124,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,4.75,4.93
+P124,5,Bạn bị quay video và chia sẻ,Không làm gì,4.67,4.32
+P125,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.48,3.62
+P125,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.72,3.44
+P125,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.91,3.34
+P125,4,Phát hiện bình luận xúc phạm,Báo giáo viên,4.11,3.21
+P125,5,Bạn bị quay video và chia sẻ,Không làm gì,3.84,3.1
+P126,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,2.87,2.11
+P126,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.08,2.14
+P126,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.27,2.69
+P126,4,Phát hiện bình luận xúc phạm,Báo giáo viên,2.95,2.38
+P126,5,Bạn bị quay video và chia sẻ,Không làm gì,3.22,2.44
+P127,1,Video bắt nạt trong nhóm chat,Không làm gì,4.04,3.96
+P127,2,Chứng kiến bạn bị cô lập,Không làm gì,4.14,3.46
+P127,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,4.24,3.99
+P127,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.83,3.78
+P127,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.19,3.72
+P128,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,5.0,4.84
+P128,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.8,3.9
+P128,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,5.0,4.43
+P128,4,Phát hiện bình luận xúc phạm,Báo giáo viên,4.94,4.61
+P128,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,4.67,4.42
+P129,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.14,4.62
+P129,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.79,4.0
+P129,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.15,4.4
+P129,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.19,4.18
+P129,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.3,3.71
+P130,1,Video bắt nạt trong nhóm chat,Không làm gì,4.1,2.68
+P130,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.98,3.21
+P130,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.79,3.05
+P130,4,Phát hiện bình luận xúc phạm,Báo giáo viên,4.03,2.78
+P130,5,Bạn bị quay video và chia sẻ,Không làm gì,4.3,2.94
+P131,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.96,3.04
+P131,2,Chứng kiến bạn bị cô lập,Không làm gì,3.74,2.65
+P131,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.55,2.59
+P131,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,4.56,3.11
+P131,5,Bạn bị quay video và chia sẻ,Không làm gì,3.48,2.47
+P132,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.36,4.2
+P132,2,Chứng kiến bạn bị cô lập,Báo giáo viên,4.38,4.0
+P132,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,4.21,4.14
+P132,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.26,3.51
+P132,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.18,3.85
+P133,1,Video bắt nạt trong nhóm chat,Không làm gì,3.92,3.62
+P133,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.97,2.79
+P133,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,4.11,2.99
+P133,4,Phát hiện bình luận xúc phạm,Không làm gì,3.99,3.02
+P133,5,Bạn bị quay video và chia sẻ,Không làm gì,4.39,2.59
+P134,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.84,3.25
+P134,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.86,3.25
+P134,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.62,3.41
+P134,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.96,3.71
+P134,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.41,3.49
+P135,1,Video bắt nạt trong nhóm chat,Không làm gì,3.24,2.79
+P135,2,Chứng kiến bạn bị cô lập,Không làm gì,3.37,3.02
+P135,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,4.03,3.21
+P135,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.08,2.96
+P135,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.68,3.62
+P136,1,Video bắt nạt trong nhóm chat,Không làm gì,3.18,2.66
+P136,2,Chứng kiến bạn bị cô lập,Không làm gì,4.05,3.23
+P136,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.36,3.26
+P136,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,2.92,3.13
+P136,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.66,3.36
+P137,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.62,4.08
+P137,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.64,4.12
+P137,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.65,3.96
+P137,4,Phát hiện bình luận xúc phạm,Không làm gì,3.62,4.22
+P137,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.08,4.0
+P138,1,Video bắt nạt trong nhóm chat,Báo giáo viên,5.0,3.74
+P138,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.93,4.09
+P138,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,5.0,3.82
+P138,4,Phát hiện bình luận xúc phạm,Không làm gì,5.0,4.35
+P138,5,Bạn bị quay video và chia sẻ,Không làm gì,5.0,4.54
+P139,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.52,3.22
+P139,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.42,3.43
+P139,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.7,2.96
+P139,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.1,3.07
+P139,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.23,3.1
+P140,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.99,3.46
+P140,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.67,3.58
+P140,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.89,3.01
+P140,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.53,3.62
+P140,5,Bạn bị quay video và chia sẻ,Không làm gì,3.98,3.45
+P141,1,Video bắt nạt trong nhóm chat,Không làm gì,3.2,3.96
+P141,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.51,3.51
+P141,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.51,3.76
+P141,4,Phát hiện bình luận xúc phạm,Không làm gì,3.52,3.26
+P141,5,Bạn bị quay video và chia sẻ,Không làm gì,3.89,4.13
+P142,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.05,4.65
+P142,2,Chứng kiến bạn bị cô lập,Không làm gì,3.84,4.93
+P142,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.04,5.0
+P142,4,Phát hiện bình luận xúc phạm,Không làm gì,3.71,4.95
+P142,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.0,5.0
+P143,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.47,4.04
+P143,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.31,4.19
+P143,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.39,3.62
+P143,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.64,4.01
+P143,5,Bạn bị quay video và chia sẻ,Không làm gì,3.18,3.72
+P144,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.41,3.69
+P144,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.39,3.65
+P144,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.76,3.84
+P144,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.39,3.81
+P144,5,Bạn bị quay video và chia sẻ,Không làm gì,3.08,3.67
+P145,1,Video bắt nạt trong nhóm chat,Không làm gì,3.75,2.93
+P145,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.09,2.82
+P145,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.03,2.78
+P145,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.21,2.63
+P145,5,Bạn bị quay video và chia sẻ,Không làm gì,3.3,3.21
+P146,1,Video bắt nạt trong nhóm chat,Không làm gì,3.35,3.32
+P146,2,Chứng kiến bạn bị cô lập,Không làm gì,3.71,3.2
+P146,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.42,3.15
+P146,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.31,3.16
+P146,5,Bạn bị quay video và chia sẻ,Không làm gì,3.62,3.08
+P147,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.07,3.14
+P147,2,Chứng kiến bạn bị cô lập,Không làm gì,3.51,3.12
+P147,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.48,3.02
+P147,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.57,3.05
+P147,5,Bạn bị quay video và chia sẻ,Không làm gì,3.5,3.52
+P148,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.21,3.97
+P148,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.45,3.69
+P148,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.13,3.33
+P148,4,Phát hiện bình luận xúc phạm,Không làm gì,3.47,3.43
+P148,5,Bạn bị quay video và chia sẻ,Không làm gì,3.4,3.75
+P149,1,Video bắt nạt trong nhóm chat,Không làm gì,4.25,4.23
+P149,2,Chứng kiến bạn bị cô lập,Báo giáo viên,4.0,4.49
+P149,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,4.16,4.39
+P149,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.2,3.93
+P149,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.27,4.46
+P150,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.35,4.34
+P150,2,Chứng kiến bạn bị cô lập,Không làm gì,4.59,4.37
+P150,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,4.68,4.76
+P150,4,Phát hiện bình luận xúc phạm,Báo giáo viên,4.87,4.07
+P150,5,Bạn bị quay video và chia sẻ,Không làm gì,4.76,4.73
+P151,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.04,3.66
+P151,2,Chứng kiến bạn bị cô lập,Không làm gì,4.44,3.65
+P151,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,4.0,3.65
+P151,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.98,3.4
+P151,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.85,3.78
+P152,1,Video bắt nạt trong nhóm chat,Không làm gì,2.62,3.67
+P152,2,Chứng kiến bạn bị cô lập,Không làm gì,2.94,2.94
+P152,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,2.91,2.76
+P152,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,2.98,3.51
+P152,5,Bạn bị quay video và chia sẻ,Không làm gì,2.67,3.32
+P153,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.35,4.3
+P153,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.6,4.8
+P153,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.35,4.43
+P153,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.11,4.77
+P153,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.67,4.31
+P154,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.72,3.79
+P154,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.55,3.15
+P154,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.91,3.24
+P154,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.33,3.46
+P154,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.8,3.58
+P155,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.58,3.24
+P155,2,Chứng kiến bạn bị cô lập,Không làm gì,4.49,3.26
+P155,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.85,3.05
+P155,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,4.54,2.83
+P155,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,4.58,3.07
+P156,1,Video bắt nạt trong nhóm chat,Không làm gì,3.78,4.65
+P156,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.22,4.22
+P156,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.32,4.15
+P156,4,Phát hiện bình luận xúc phạm,Không làm gì,3.39,4.07
+P156,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.06,4.42
+P157,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.2,3.21
+P157,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.26,3.25
+P157,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.1,3.62
+P157,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.03,3.52
+P157,5,Bạn bị quay video và chia sẻ,Không làm gì,2.91,3.36
+P158,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.07,3.49
+P158,2,Chứng kiến bạn bị cô lập,Báo giáo viên,4.08,3.29
+P158,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.0,3.61
+P158,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,4.06,3.62
+P158,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,4.1,3.8
+P159,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.89,3.41
+P159,2,Chứng kiến bạn bị cô lập,Không làm gì,3.37,3.31
+P159,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.55,3.48
+P159,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.48,3.25
+P159,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.56,3.62
+P160,1,Video bắt nạt trong nhóm chat,Không làm gì,3.8,3.89
+P160,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.55,3.8
+P160,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.64,3.82
+P160,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.79,3.58
+P160,5,Bạn bị quay video và chia sẻ,Không làm gì,3.56,4.11
+P161,1,Video bắt nạt trong nhóm chat,Báo giáo viên,4.17,5.0
+P161,2,Chứng kiến bạn bị cô lập,Không làm gì,4.21,4.21
+P161,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,4.1,4.02
+P161,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.1,4.25
+P161,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.35,4.32
+P162,1,Video bắt nạt trong nhóm chat,Không làm gì,3.23,4.0
+P162,2,Chứng kiến bạn bị cô lập,Không làm gì,3.69,4.08
+P162,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.72,4.36
+P162,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.38,4.25
+P162,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.36,3.68
+P163,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.18,3.66
+P163,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,4.24,3.1
+P163,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.24,3.88
+P163,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,4.56,3.43
+P163,5,Bạn bị quay video và chia sẻ,Không làm gì,4.49,3.36
+P164,1,Video bắt nạt trong nhóm chat,Báo giáo viên,2.24,2.97
+P164,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.06,3.13
+P164,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,2.61,3.13
+P164,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.15,3.61
+P164,5,Bạn bị quay video và chia sẻ,Không làm gì,3.22,3.16
+P165,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.77,2.44
+P165,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,4.07,2.53
+P165,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.75,2.55
+P165,4,Phát hiện bình luận xúc phạm,Không làm gì,3.55,2.61
+P165,5,Bạn bị quay video và chia sẻ,Báo giáo viên,3.55,2.69
+P166,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.7,2.63
+P166,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.56,2.48
+P166,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,4.14,2.29
+P166,4,Phát hiện bình luận xúc phạm,Không làm gì,3.66,2.36
+P166,5,Bạn bị quay video và chia sẻ,Không làm gì,4.13,2.47
+P167,1,Video bắt nạt trong nhóm chat,Không làm gì,4.74,4.69
+P167,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.59,4.74
+P167,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,4.97,4.49
+P167,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.66,4.35
+P167,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,5.0,4.88
+P168,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.58,3.23
+P168,2,Chứng kiến bạn bị cô lập,Không làm gì,3.22,2.97
+P168,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.73,2.89
+P168,4,Phát hiện bình luận xúc phạm,Không làm gì,3.51,2.95
+P168,5,Bạn bị quay video và chia sẻ,Không làm gì,3.81,3.07
+P169,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.82,3.07
+P169,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.23,3.71
+P169,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.69,3.48
+P169,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.25,3.95
+P169,5,Bạn bị quay video và chia sẻ,Không làm gì,4.28,3.7
+P170,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.87,3.77
+P170,2,Chứng kiến bạn bị cô lập,Báo giáo viên,5.0,4.35
+P170,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.96,5.0
+P170,4,Phát hiện bình luận xúc phạm,Báo giáo viên,4.31,4.73
+P170,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.76,4.37
+P171,1,Video bắt nạt trong nhóm chat,Không làm gì,4.03,3.25
+P171,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.9,3.44
+P171,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.66,3.55
+P171,4,Phát hiện bình luận xúc phạm,Không làm gì,3.94,3.08
+P171,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.93,3.67
+P172,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.59,3.63
+P172,2,Chứng kiến bạn bị cô lập,Không làm gì,3.54,3.73
+P172,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.89,4.0
+P172,4,Phát hiện bình luận xúc phạm,Không làm gì,3.68,3.71
+P172,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.74,3.86
+P173,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.78,4.17
+P173,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.91,3.96
+P173,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.98,4.04
+P173,4,Phát hiện bình luận xúc phạm,Không làm gì,3.93,4.03
+P173,5,Bạn bị quay video và chia sẻ,Không làm gì,4.35,4.23
+P174,1,Video bắt nạt trong nhóm chat,Báo giáo viên,4.07,4.02
+P174,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.63,4.37
+P174,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.07,4.5
+P174,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.7,4.07
+P174,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.44,4.03
+P175,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.84,3.75
+P175,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.75,3.82
+P175,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.67,3.58
+P175,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.61,3.12
+P175,5,Bạn bị quay video và chia sẻ,Không làm gì,3.54,3.46
+P176,1,Video bắt nạt trong nhóm chat,Không làm gì,3.59,3.6
+P176,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.41,3.79
+P176,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.05,3.85
+P176,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.52,3.35
+P176,5,Bạn bị quay video và chia sẻ,Không làm gì,3.57,3.13
+P177,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,3.47,3.94
+P177,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.55,3.83
+P177,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.99,4.03
+P177,4,Phát hiện bình luận xúc phạm,Không làm gì,3.77,3.95
+P177,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.22,4.16
+P178,1,Video bắt nạt trong nhóm chat,Không làm gì,3.97,2.96
+P178,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.11,3.48
+P178,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.68,3.01
+P178,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.77,2.77
+P178,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.59,3.03
+P179,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.47,3.77
+P179,2,Chứng kiến bạn bị cô lập,Không làm gì,3.58,3.52
+P179,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,2.99,3.21
+P179,4,Phát hiện bình luận xúc phạm,Không làm gì,3.37,3.47
+P179,5,Bạn bị quay video và chia sẻ,Không làm gì,3.12,4.05
+P180,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.73,3.75
+P180,2,Chứng kiến bạn bị cô lập,Không làm gì,4.37,3.55
+P180,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,4.11,3.62
+P180,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,4.41,3.29
+P180,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,4.43,3.56
+P181,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,2.99,2.9
+P181,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.37,3.59
+P181,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.61,2.79
+P181,4,Phát hiện bình luận xúc phạm,Không làm gì,3.59,2.73
+P181,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.74,3.0
+P182,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,4.35,4.35
+P182,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.05,3.67
+P182,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.22,4.28
+P182,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.99,3.31
+P182,5,Bạn bị quay video và chia sẻ,Không làm gì,4.26,4.16
+P183,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.47,3.67
+P183,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.07,4.08
+P183,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.7,3.69
+P183,4,Phát hiện bình luận xúc phạm,Không làm gì,4.22,3.9
+P183,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,4.04,3.8
+P184,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.68,3.87
+P184,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,4.41,3.78
+P184,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,4.31,4.14
+P184,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.21,4.07
+P184,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.06,3.98
+P185,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.57,3.39
+P185,2,Chứng kiến bạn bị cô lập,Báo giáo viên,4.27,3.41
+P185,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.6,2.84
+P185,4,Phát hiện bình luận xúc phạm,Báo giáo viên,4.71,3.27
+P185,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.53,3.65
+P186,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.24,3.31
+P186,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.51,3.29
+P186,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,4.01,3.28
+P186,4,Phát hiện bình luận xúc phạm,Báo giáo viên,3.44,3.54
+P186,5,Bạn bị quay video và chia sẻ,Không làm gì,3.28,3.39
+P187,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,5.0,4.19
+P187,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.98,4.14
+P187,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,4.62,4.35
+P187,4,Phát hiện bình luận xúc phạm,Báo giáo viên,5.0,4.27
+P187,5,Bạn bị quay video và chia sẻ,Không làm gì,5.0,4.44
+P188,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.8,3.53
+P188,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,4.17,3.51
+P188,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.94,3.55
+P188,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,4.31,3.24
+P188,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.18,3.04
+P189,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.96,3.65
+P189,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.17,3.33
+P189,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.61,3.69
+P189,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,3.65,3.91
+P189,5,Bạn bị quay video và chia sẻ,Không làm gì,3.17,3.65
+P190,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.09,4.07
+P190,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.52,3.98
+P190,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.32,4.2
+P190,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.8,4.03
+P190,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.51,4.02
+P191,1,Video bắt nạt trong nhóm chat,Báo giáo viên,3.33,4.3
+P191,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.92,4.36
+P191,3,Bạn bè rủ tham gia bắt nạt,Hỗ trợ nạn nhân,3.33,4.18
+P191,4,Phát hiện bình luận xúc phạm,Không làm gì,3.19,4.23
+P191,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.62,3.62
+P192,1,Video bắt nạt trong nhóm chat,Báo giáo viên,2.7,2.13
+P192,2,Chứng kiến bạn bị cô lập,Không làm gì,2.91,1.9
+P192,3,Bạn bè rủ tham gia bắt nạt,Can thiệp trực tiếp,3.09,2.26
+P192,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,2.94,2.01
+P192,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,3.25,2.61
+P193,1,Video bắt nạt trong nhóm chat,Can thiệp trực tiếp,3.16,2.31
+P193,2,Chứng kiến bạn bị cô lập,Không làm gì,3.4,2.37
+P193,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.25,2.64
+P193,4,Phát hiện bình luận xúc phạm,Can thiệp trực tiếp,2.8,2.79
+P193,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,3.3,2.36
+P194,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.32,3.68
+P194,2,Chứng kiến bạn bị cô lập,Báo giáo viên,3.91,4.06
+P194,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.35,3.8
+P194,4,Phát hiện bình luận xúc phạm,Không làm gì,4.58,3.43
+P194,5,Bạn bị quay video và chia sẻ,Báo giáo viên,4.46,3.62
+P195,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.57,4.47
+P195,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,4.34,4.85
+P195,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,4.47,5.0
+P195,4,Phát hiện bình luận xúc phạm,Báo giáo viên,4.18,4.82
+P195,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,4.33,4.78
+P196,1,Video bắt nạt trong nhóm chat,Không làm gì,4.4,3.84
+P196,2,Chứng kiến bạn bị cô lập,Hỗ trợ nạn nhân,3.46,3.84
+P196,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,3.93,3.52
+P196,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.88,3.96
+P196,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,4.52,4.01
+P197,1,Video bắt nạt trong nhóm chat,Không làm gì,2.45,2.8
+P197,2,Chứng kiến bạn bị cô lập,Không làm gì,2.49,2.52
+P197,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,2.31,2.25
+P197,4,Phát hiện bình luận xúc phạm,Không làm gì,2.5,2.73
+P197,5,Bạn bị quay video và chia sẻ,Không làm gì,2.58,2.59
+P198,1,Video bắt nạt trong nhóm chat,Hỗ trợ nạn nhân,4.06,3.13
+P198,2,Chứng kiến bạn bị cô lập,Không làm gì,3.97,3.17
+P198,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,4.05,2.79
+P198,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.93,2.85
+P198,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,4.54,3.11
+P199,1,Video bắt nạt trong nhóm chat,Không làm gì,4.3,3.28
+P199,2,Chứng kiến bạn bị cô lập,Can thiệp trực tiếp,3.78,3.07
+P199,3,Bạn bè rủ tham gia bắt nạt,Báo giáo viên,3.86,3.48
+P199,4,Phát hiện bình luận xúc phạm,Hỗ trợ nạn nhân,3.76,3.37
+P199,5,Bạn bị quay video và chia sẻ,Hỗ trợ nạn nhân,4.28,3.61
+P200,1,Video bắt nạt trong nhóm chat,Không làm gì,2.56,3.2
+P200,2,Chứng kiến bạn bị cô lập,Không làm gì,3.23,2.87
+P200,3,Bạn bè rủ tham gia bắt nạt,Không làm gì,2.28,2.55
+P200,4,Phát hiện bình luận xúc phạm,Không làm gì,2.84,2.55
+P200,5,Bạn bị quay video và chia sẻ,Can thiệp trực tiếp,2.57,3.13

@@ -1,0 +1,94 @@
+player_id,timestamp,scenario,question_id,branch,choice,choice_text,empathy_change,courage_change,responsibility_change,intervention_change
+P00001,2026-09-12T15:40:43,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00001,2026-09-12T15:40:45,scenario_1,Q2,A,A4,So hai va rut lui.,0,-2,0,-1
+P00001,2026-09-12T15:40:54,scenario_2,Q1,-,D,Khong lam gi.,0,0,0,0
+P00001,2026-09-12T15:40:57,scenario_2,Q2,D,D4,Noi Em khong biet gi ca.,0,0,-3,-3
+P00003,2026-09-12T16:19:47,scenario_1,Q1,-,D,Bo di vi nghi do khong phai chuyen cua minh.,0,0,-1,0
+P00003,2026-09-12T16:19:50,scenario_1,Q2,D,D4,Tham gia binh luan che gieu.,-3,0,-3,-3
+P00003,2026-09-12T16:19:57,scenario_2,Q1,-,D,Khong lam gi.,0,0,0,0
+P00003,2026-09-12T16:20:00,scenario_2,Q2,D,D4,Noi Em khong biet gi ca.,0,0,-3,-3
+P00007,2026-09-12T21:11:08,scenario_1,Q1,-,C,Dung lai quan sat nhung chua lam gi.,1,0,0,0
+P00007,2026-09-12T21:11:12,scenario_1,Q2,C,C3,Cho nhom hoc sinh roi di roi ho tro Minh.,2,0,1,1
+P00007,2026-09-12T21:11:27,scenario_2,Q1,-,D,Khong lam gi.,0,0,0,0
+P00007,2026-09-12T21:11:30,scenario_2,Q2,D,D4,Noi Em khong biet gi ca.,0,0,-3,-3
+P00008,2026-09-12T21:13:38,scenario_1,Q1,-,D,Bo di vi nghi do khong phai chuyen cua minh.,0,0,-1,0
+P00008,2026-09-12T21:13:40,scenario_1,Q2,D,D4,Tham gia binh luan che gieu.,-3,0,-3,-3
+P00008,2026-09-12T21:13:43,scenario_2,Q1,-,D,Khong lam gi.,0,0,0,0
+P00008,2026-09-12T21:13:45,scenario_2,Q2,D,D4,Noi Em khong biet gi ca.,0,0,-3,-3
+P00009,2026-09-12T21:13:50,scenario_1,Q1,-,D,Bo di vi nghi do khong phai chuyen cua minh.,0,0,-1,0
+P00009,2026-09-12T21:13:51,scenario_1,Q2,D,D4,Tham gia binh luan che gieu.,-3,0,-3,-3
+P00009,2026-09-12T21:13:54,scenario_2,Q1,-,D,Khong lam gi.,0,0,0,0
+P00009,2026-09-12T21:13:55,scenario_2,Q2,D,D4,Noi Em khong biet gi ca.,0,0,-3,-3
+P00010,2026-09-12T21:15:36,scenario_1,Q1,-,D,Bo di vi nghi do khong phai chuyen cua minh.,0,0,-1,0
+P00010,2026-09-12T21:15:37,scenario_1,Q2,D,D4,Tham gia binh luan che gieu.,-3,0,-3,-3
+P00010,2026-09-12T21:15:40,scenario_2,Q1,-,D,Khong lam gi.,0,0,0,0
+P00010,2026-09-12T21:15:41,scenario_2,Q2,D,D4,Noi Em khong biet gi ca.,0,0,-3,-3
+P00013,2026-09-12T21:50:19,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00013,2026-09-12T21:50:23,scenario_1,Q2,A,A4,So hai va rut lui.,0,-2,0,-1
+P00014,2026-09-12T21:58:17,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00014,2026-09-12T21:58:18,scenario_1,Q2,A,A3,Tim giao vien va bao su viec.,0,0,3,3
+P00015,2026-09-12T21:59:25,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00015,2026-09-12T21:59:28,scenario_1,Q2,A,A2,Goi them mot nguoi ban toi ho tro.,0,0,2,2
+P00015,2026-09-12T21:59:42,scenario_2,Q1,-,B,Nhan rieng cho Lan.,4,1,2,2
+P00015,2026-09-12T21:59:42,scenario_2,Q2,B,B2,Khuyen Lan luu bang chung va bao nguoi lon.,0,0,3,3
+P00016,2026-09-12T22:53:57,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00016,2026-09-12T22:54:00,scenario_1,Q2,A,A2,Goi them mot nguoi ban toi ho tro.,0,0,2,2
+P00016,2026-09-12T22:54:07,scenario_2,Q1,-,B,Nhan rieng cho Lan.,4,1,2,2
+P00016,2026-09-12T22:54:08,scenario_2,Q2,B,B2,Khuyen Lan luu bang chung va bao nguoi lon.,0,0,3,3
+P00021,2026-09-12T23:07:44,scenario_1,Q1,-,D,Bo di vi nghi do khong phai chuyen cua minh.,0,0,-1,0
+P00021,2026-09-12T23:07:45,scenario_1,Q2,D,D4,Tham gia binh luan che gieu.,-3,0,-3,-3
+P00021,2026-09-12T23:07:48,scenario_2,Q1,-,D,Khong lam gi.,0,0,0,0
+P00021,2026-09-12T23:07:49,scenario_2,Q2,D,D4,Noi Em khong biet gi ca.,0,0,-3,-3
+P00022,2026-09-12T23:25:07,scenario_1,Q1,-,C,Dung lai quan sat nhung chua lam gi.,1,0,0,0
+P00022,2026-09-12T23:25:23,scenario_1,Q2,C,C1,Tien toi ho tro Minh.,3,0,0,2
+P00025,2026-09-12T23:32:19,scenario_1,Q1,-,D,Bo di vi nghi do khong phai chuyen cua minh.,0,0,-1,0
+P00025,2026-09-12T23:32:23,scenario_1,Q2,D,D4,Tham gia binh luan che gieu.,-3,0,-3,-3
+P00039,2026-09-12T23:42:46,scenario_1,Q1,-,D,Bo di vi nghi do khong phai chuyen cua minh.,0,0,-1,0
+P00039,2026-09-12T23:42:48,scenario_1,Q2,D,D2,Nhan rieng cho Minh.,3,0,0,2
+P00042,2026-09-12T23:45:16,scenario_1,Q1,-,B,Di tim giao vien hoac nhan vien nha truong.,1,2,3,3
+P00042,2026-09-12T23:45:19,scenario_1,Q2,B,B2,De nghi giao vien di kiem tra.,0,0,2,3
+P00046,2026-09-12T23:48:39,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00046,2026-09-12T23:48:44,scenario_1,Q2,A,A1,Binh tinh giai thich hanh dong nay khong dung.,0,3,2,2
+P00050,2026-09-13T00:25:59,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00051,2026-09-13T00:26:13,scenario_1,Q1,-,D,Bo di vi nghi do khong phai chuyen cua minh.,0,0,-1,0
+P00051,2026-09-13T00:26:14,scenario_1,Q2,D,D4,Tham gia binh luan che gieu.,-3,0,-3,-3
+P00052,2026-09-13T00:26:25,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00052,2026-09-13T00:26:36,scenario_1,Q2,A,A1,Binh tinh giai thich hanh dong nay khong dung.,0,3,2,2
+P00053,2026-09-13T00:27:33,scenario_1,Q1,-,B,Di tim giao vien hoac nhan vien nha truong.,1,2,3,3
+P00053,2026-09-13T00:27:42,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00053,2026-09-13T00:27:46,scenario_1,Q2,A,A3,Tim giao vien va bao su viec.,0,0,3,3
+P00056,2026-09-13T00:37:07,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00056,2026-09-13T00:37:09,scenario_1,Q2,A,A1,Binh tinh giai thich hanh dong nay khong dung.,0,3,2,2
+P00057,2026-09-13T00:38:01,scenario_1,Q1,-,C,Dung lai quan sat nhung chua lam gi.,1,0,0,0
+P00057,2026-09-13T00:38:08,scenario_1,Q2,C,C1,Tien toi ho tro Minh.,3,0,0,2
+P00057,2026-09-13T00:38:21,scenario_2,Q1,-,A,Bao moi nguoi dung lai.,1,4,4,3
+P00057,2026-09-13T00:38:23,scenario_2,Q2,A,A1,Giai thich vi sao hanh dong nay co the lam Lan ton thuong.,3,2,0,0
+P00058,2026-09-13T00:40:41,scenario_1,Q1,-,B,Di tim giao vien hoac nhan vien nha truong.,1,2,3,3
+P00058,2026-09-13T00:40:43,scenario_1,Q2,B,B3,Noi rang co the chi la dua.,0,0,-1,-1
+P00058,2026-09-13T00:40:46,scenario_2,Q1,-,C,Bao cao bai dang.,0,0,3,3
+P00058,2026-09-13T00:40:47,scenario_2,Q2,C,C3,Khong tra loi.,0,0,1,0
+P00060,2026-09-13T00:47:31,scenario_1,Q1,-,B,Di tim giao vien hoac nhan vien nha truong.,1,2,3,3
+P00060,2026-09-13T00:47:41,scenario_1,Q2,B,B4,Noi rang Minh nen tu giai quyet.,0,0,-2,-2
+P00060,2026-09-13T00:48:11,scenario_2,Q1,-,C,Bao cao bai dang.,0,0,3,3
+P00060,2026-09-13T00:48:16,scenario_2,Q2,C,C3,Khong tra loi.,0,0,1,0
+P00064,2026-09-13T13:07:43,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00064,2026-09-13T13:07:49,scenario_1,Q2,A,A2,Goi them mot nguoi ban toi ho tro.,0,0,2,2
+P00064,2026-09-13T13:08:06,scenario_2,Q1,-,B,Nhan rieng cho Lan.,4,1,2,2
+P00064,2026-09-13T13:08:09,scenario_2,Q2,B,B2,Khuyen Lan luu bang chung va bao nguoi lon.,0,0,3,3
+P00077,2026-09-13T16:30:06,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00077,2026-09-13T16:30:09,scenario_1,Q2,A,A2,Goi them mot nguoi ban toi ho tro.,0,0,2,2
+P00078,2026-09-13T16:30:45,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00078,2026-09-13T16:30:47,scenario_1,Q2,A,A1,Binh tinh giai thich hanh dong nay khong dung.,0,3,2,2
+P00079,2026-09-13T16:33:00,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00079,2026-09-13T16:33:02,scenario_1,Q2,A,A1,Binh tinh giai thich hanh dong nay khong dung.,0,3,2,2
+P00080,2026-09-13T22:20:46,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00080,2026-09-13T22:20:47,scenario_1,Q2,A,A1,Binh tinh giai thich hanh dong nay khong dung.,0,3,2,2
+P00080,2026-09-13T22:20:54,scenario_2,Q1,-,A,Bao moi nguoi dung lai.,1,4,4,3
+P00081,2026-09-13T22:21:24,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00081,2026-09-13T22:21:25,scenario_1,Q2,A,A1,Binh tinh giai thich hanh dong nay khong dung.,0,3,2,2
+P00081,2026-09-13T22:21:29,scenario_2,Q1,-,A,Bao moi nguoi dung lai.,1,4,4,3
+P00081,2026-09-13T22:21:33,scenario_2,Q2,A,A1,Giai thich vi sao hanh dong nay co the lam Lan ton thuong.,3,2,0,0
+P00082,2026-09-14T01:46:00,scenario_1,Q1,-,A,Di toi va yeu cau nhom hoc sinh dung lai.,1,4,3,4
+P00082,2026-09-14T01:46:03,scenario_1,Q2,A,A1,Binh tinh giai thich hanh dong nay khong dung.,0,3,2,2
+P00082,2026-09-14T01:46:10,scenario_2,Q1,-,B,Nhan rieng cho Lan.,4,1,2,2
+P00082,2026-09-14T01:46:15,scenario_2,Q2,B,B1,Noi rang ban se o ben va cung tim cach giai quyet.,4,0,0,3
